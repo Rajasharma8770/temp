@@ -1,0 +1,932 @@
+/* Media Query for Large screens */
+
+@media (min-width: 1281px) {
+    body {
+      overflow-x: hidden;
+    }
+  
+    #nav-bar {
+      margin-left: 124px;
+      margin-right: 124px;
+    }
+    #sarkari-naukri {
+      background-color: #ab183d;
+      margin-left: 124px;
+      margin-right: 124px;
+      height: 200px;
+    }
+  
+    #nav-link a {
+      text-align: center;
+      padding: 9px 23px;
+      text-decoration: none;
+    }
+    #heading-intro {
+      margin-left: 161px;
+      margin-right: 68px;
+      font-size: 1.3rem;
+      margin-top: 30px;
+      font-weight: 700;
+    }
+    #marquee0 {
+      font-size: 17.6px;
+      margin-left: 149px;
+      margin-right: 143px;
+    }
+    #marquee1 {
+      font-size: 17.6px;
+      margin-left: 149px;
+      margin-right: 159px;
+      text-align: center;
+    }
+    #sarkari-naukri-tools {
+      margin-left: 513px;
+      margin-right: 516px;
+      margin-top: 10px;
+      padding: 5px 15px 5px 15px;
+      text-align: center;
+      background-color: rgb(4, 4, 152);
+    }
+  
+    #post {
+      display: inline-block;
+      margin-top: 20px;
+      color: white;
+      margin-left: 124px;
+      margin-right: 124px;
+    }
+    #result {
+      margin-top: 50px;
+      border: 2px solid #ab183d;
+      margin-left: 160px;
+      margin-right: 10px;
+      width: 24%;
+      overflow-x: hidden;
+    }
+  
+    #admit-card {
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      margin-top: 50px;
+      overflow-x: hidden;
+    }
+    #latest-job {
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      margin-top: 50px;
+      overflow-x: hidden;
+    }
+  
+    #answer-key {
+      margin-top: 30px;
+      border: 2px solid #ab183d;
+      margin-left: 160px;
+      margin-right: 10px;
+      width: 24%;
+      height: 330px;
+    }
+    #syllabus {
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      margin-top: 30px;
+      height: 335px;
+    }
+  
+    #syllabus {
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      margin-top: 30px;
+      height: 335px;
+    }
+  
+    #admission {
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      margin-top: 30px;
+      height: 670px;
+    }
+  
+    #important-main {
+      margin-top: -330px;
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      height: 330px;
+    }
+  
+    #heading-result {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 123px;
+      padding-left: 122px;
+      margin-left: -12px;
+      padding-bottom: 7px;
+    }
+  
+    #heading-admitcard {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 102px;
+      padding-left: 115px;
+      margin-left: -37px;
+      padding-bottom: 7px;
+      margin-right: -18px;
+    }
+    #heading-latestjob {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 107px;
+      padding-left: 97px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+    }
+    #heading-answerkey {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 90px;
+      padding-left: 98px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      padding-top: 2px;
+      margin-right: -111px;
+    }
+    #heading-syllabus {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 116px;
+      padding-left: 111px;
+      margin-left: -14px;
+      padding-bottom: 10px;
+      margin-right: -18px;
+      padding-top: 2px;
+    }
+    #heading-admission {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 85px;
+      padding-left: 77px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -31px;
+      padding-top: 2px;
+    }
+    #heading-admission {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 93px;
+      padding-left: 109px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -31px;
+      padding-top: 2px;
+    }
+    #certificate {
+      margin-top: -310px;
+      border: 2px solid #ab183d;
+      margin-left: 159px;
+      margin-right: 10px;
+      width: 24%;
+      height: 320px;
+    }
+    #heading-certificate {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 35px;
+      padding-left: 42px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #heading-important {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      background-color: #ab183d;
+      color: white;
+      padding-right: 101px;
+      padding-left: 102px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #important-main {
+      margin-top: -323px;
+      border: 2px solid #ab183d;
+      width: 24%;
+      margin-right: 10px;
+      height: 330px;
+    }
+    #sarkari-container {
+      border: 2px solid #ab183d;
+      margin-top: 50px;
+      margin-left: 50px;
+      width: 92%;
+      text-align: center;
+    }
+    .footer-container {
+      margin-top: 50px;
+      margin-left: 50px;
+      display: inline-block;
+      width: 90%;
+    }
+  }
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    body {
+      overflow-x: hidden;
+    }
+  
+    #sarkari-naukri {
+      background-color: #ab183d;
+      margin-left: 16px;
+      margin-right: 16px;
+      height: 200px;
+    }
+    #nav-bar {
+      margin-left: 16px;
+      margin-right: 16px;
+    }
+  
+    #nav-link a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 9px 20.5px;
+      text-decoration: none;
+    }
+    #heading-intro {
+      margin-left: 30px;
+      margin-right: 20px;
+      font-size: 1.3rem;
+      margin-top: 30px;
+      font-weight: 700;
+    }
+    #marquee0 {
+      font-size: 17.3px;
+      margin-left: 30px;
+      margin-right: 20px;
+    }
+  
+    #marquee1 {
+      font-size: 17.3px;
+      margin-left: 30px;
+      margin-right: 40px;
+    }
+    #sarkari-naukri-tools {
+      margin-left: 358px;
+      margin-right: 380px;
+    }
+  
+    #post {
+      display: inline-block;
+      margin-top: 20px;
+      color: white;
+      margin-left: 7px;
+      margin-right: 1px;
+    }
+    #post1 a {
+      font-size: 18px;
+    }
+  
+    #post2 a {
+      font-size: 18px;
+    }
+  
+    #post3 a {
+      font-size: 18px;
+    }
+  
+    #post4 a {
+      font-size: 18px;
+    }
+  
+    #post5 a {
+      font-size: 18px;
+      padding-right: 60px;
+    }
+  
+    #post6 a {
+      font-size: 18px;
+    }
+  
+    #post7 a {
+      font-size: 18px;
+      padding-right: 50px;
+    }
+    #post8 {
+      padding: 0px 16px;
+    }
+    #post8 a {
+      font-size: 18px;
+    }
+    td a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 10px 41.4px;
+      text-decoration: none;
+    }
+  
+    #result {
+      margin-top: 50px;
+  
+      margin-left: 45px;
+      margin-right: 10px;
+      width: 30%;
+      overflow-x: hidden;
+    }
+    #admit-card {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 50px;
+      overflow-x: hidden;
+    }
+  
+    #latest-job {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 50px;
+      overflow-x: hidden;
+    }
+    #heading-admitcard {
+      padding-right: 95px;
+      padding-left: 136px;
+      margin-left: -50px;
+      padding-bottom: 7px;
+    }
+    #heading-latestjob {
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      padding-right: 109px;
+      padding-left: 97px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+    }
+  
+    #answer-key {
+      margin-left: 45px;
+      margin-right: 10px;
+      width: 30%;
+      height: 330px;
+    }
+    #syllabus {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 30px;
+      height: 335px;
+    }
+    #admission {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 30px;
+      height: 670px;
+    }
+  
+    #certificate {
+      margin-left: 45px;
+      margin-right: 10px;
+      width: 30%;
+      height: 320px;
+    }
+    #important-main {
+      margin-top: -326px;
+      width: 30%;
+      margin-right: 10px;
+      height: 330px;
+    }
+  
+    #heading-answerkey {
+      padding-right: 90px;
+      padding-left: 101px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      padding-top: 2px;
+      margin-right: -33px;
+    }
+    #heading-syllabus {
+      padding-right: 117px;
+      padding-left: 111px;
+      margin-left: -14px;
+      padding-bottom: 10px;
+      margin-right: -18px;
+      padding-top: 2px;
+    }
+  
+    #heading-admission {
+      padding-right: 99px;
+      padding-left: 104px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    #heading-certificate {
+      padding-right: 44px;
+      padding-left: 35px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    #heading-important {
+      padding-right: 113px;
+      padding-left: 92px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #sarkari-container {
+      border: 2px solid #ab183d;
+      margin-top: 50px;
+      margin-left: 45px;
+      width: 92%;
+      text-align: center;
+    }
+    .footer-container {
+      margin-top: 50px;
+      margin-left: 45px;
+      display: inline-block;
+      width: 90%;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    body {
+      overflow-x: hidden;
+    }
+    #sarkari-naukri {
+      margin-left: 10px;
+      margin-right: 10px;
+      height: 200px;
+    }
+    #nav-bar {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+    #nav-link a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 9px 5.1px;
+      text-decoration: none;
+    }
+    #heading-intro {
+      margin-left: 14px;
+      margin-right: 10px;
+      font-size: 1rem;
+    }
+    #marquee0 {
+      font-size: 13.2px;
+      margin-left: 15px;
+      margin-right: 5px;
+    }
+    #marquee1 {
+      font-size: 13.2px;
+      margin-left: 15px;
+      margin-right: 15px;
+      text-align: center;
+    }
+    #sarkari-naukri-tools {
+      margin-left: 256px;
+      margin-right: 255px;
+      margin-top: 10px;
+      padding: 5px 15px 5px 15px;
+      text-align: center;
+      background-color: rgb(4, 4, 152);
+    }
+    #post {
+      display: inline-block;
+      margin-top: 20px;
+      color: white;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    #post1 {
+      padding: 0px 27.4px;
+    }
+  
+    #post1 a {
+      font-size: 15px;
+    }
+  
+    #post2 a {
+      font-size: 15px;
+      font-weight: 600;
+    }
+  
+    #post3 a {
+      font-size: 15px;
+    }
+  
+    #post4 a {
+      color: white;
+      font-size: 15px;
+    }
+    #post5 a {
+      font-size: 15px;
+    }
+  
+    #post6 {
+      padding: 0px 5px;
+    }
+    #post6 a {
+      font-size: 15px;
+    }
+    #post7 {
+      padding: 0px 6px;
+    }
+    #post7 a {
+      font-size: 15px;
+    }
+    #post8 {
+      padding: 0px 13px;
+    }
+    #post8 a {
+      font-size: 15px;
+    }
+    #result {
+      margin-left: 24px;
+      margin-right: 10px;
+      width: 30%;
+    }
+    #admit-card {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 50px;
+    }
+    #latest-job {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 50px;
+    }
+    #answer-key {
+      margin-left: 24px;
+      margin-right: 10px;
+      width: 30%;
+      height: 100%;
+    }
+  
+    #syllabus {
+      width: 30%;
+      margin-right: 10px;
+  
+      height: 100%;
+    }
+    #admission {
+      width: 30%;
+      margin-right: 10px;
+      margin-top: 30px;
+      height: auto;
+    }
+    #certificate {
+      margin-top: -455px;
+      margin-left: 24px;
+      margin-right: 10px;
+      width: 30%;
+      height: auto;
+    }
+    #important-main {
+      margin-top: -431px;
+      width: 30%;
+      margin-right: 10px;
+      height: auto;
+    }
+    #heading-result {
+      font-size: 20px;
+      padding-right: 89px;
+      padding-left: 87px;
+      margin-left: -12px;
+      padding-bottom: 7px;
+    }
+  
+    #heading-admitcard {
+      font-size: 20px;
+      padding-right: 71px;
+      padding-left: 65px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -18px;
+    }
+    #heading-latestjob {
+      font-size: 20px;
+      padding-right: 68px;
+      padding-left: 71px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+    }
+  
+    #heading-answerkey {
+      font-size: 20px;
+      padding-right: 73px;
+      padding-left: 51px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      padding-top: 2px;
+      margin-right: -33px;
+    }
+  
+    #heading-syllabus {
+      font-size: 20px;
+      padding-right: 81px;
+      padding-left: 78px;
+      margin-left: -14px;
+      padding-bottom: 10px;
+      margin-right: -18px;
+      padding-top: 2px;
+    }
+    #heading-admission {
+      font-size: 20px;
+      padding-right: 67px;
+      padding-left: 69px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #heading-certificate {
+      font-size: 19px;
+      font-weight: 700;
+      padding-right: 16px;
+      padding-left: 17px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #heading-important {
+      font-size: 20px;
+      padding-right: 60px;
+      padding-left: 78px;
+      margin-left: -12px;
+      padding-bottom: 10px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #sarkari-container {
+      margin-top: 50px;
+      margin-left: 26px;
+      width: 93%;
+      text-align: center;
+    }
+    .heading {
+      font-size: 16px;
+    }
+    .footer-container {
+      font-size: 13px;
+      margin-top: 24px;
+      margin-left: 16px;
+      display: inline-block;
+      width: 95%;
+    }
+  }
+  
+   @media (min-width: 481px) and (max-width: 767px) {
+      body {
+        overflow-x: hidden;
+      }
+      #logo {
+        width: 150px;
+        margin-top: -13px;
+        margin-left: -14px;
+    }
+
+    #logo-heading1 {
+        font-size: 24px;
+        font-family: "Roboto", sans-serif;
+        margin-top: -94px;
+        color: white;
+        margin-left: 183px;
+        font-weight: bold;
+    }
+    #logo-heading2 {
+        color: white;
+        font-family: "Roboto", sans-serif;
+        margin-left: 165px;
+        font-size: 18px;
+        margin-top: -8px;
+    }
+    
+      #sarkari-naukri {
+        
+        margin-left: 5px;
+        margin-right: 5px;
+        height: 123px;
+    }
+    #nav-bar {
+        margin-left: 4px;
+        margin-right: 4px;
+    }
+    #nav-link a {
+        font-size: 13.2px;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 9px 2px;
+        text-decoration: none;
+    }
+    #heading-intro {
+        margin-left: 8px;
+        margin-right: 0px;
+        font-size: 0.62rem;
+        margin-top: 30px;
+        font-weight: 700;
+    }
+    #heading-intro1 {
+        text-align: center;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    #marquee0 {
+        margin-left: 6px;
+        margin-right: 6px;
+        font-size: 8.5px;
+    }
+    #marquee1 {
+        font-size: 8.5px;
+        margin-left: 6px;
+        margin-right: 5px;
+        text-align: center;
+    }
+    #twitter-follow-button1 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    #sarkari-naukri-tools {
+        margin-left: 121px;
+        margin-right: 121px;
+        margin-top: 10px;
+        padding: 5px 15px 5px 15px;
+        text-align: center;
+        background-color: rgb(4, 4, 152);
+    }
+    #post {
+        display: inline-block;
+        margin-top: 20px;
+        color: white;
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+    #post1 {
+    
+        padding: 0px 3.4px;
+    }
+    
+    #post1 a {
+        font-size: 11px;
+      
+    }
+
+    #post2 {
+        padding: 0px 1px;
+    }
+    
+    #post2 a {
+        font-size: 11px;
+        padding-left: 8px;
+        padding-right: 8px;
+      
+    } 
+    
+    #post3 {
+        padding: 0px 3.2px;
+    }
+
+    #post3 a {
+        font-size: 11px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    #post4 {
+        padding: 0px 3px;
+    }
+
+    #post4 a {
+        font-size: 11px;
+        padding-left: 14px;
+        padding-right: 14px;
+    }  
+
+    #post5 a {
+        font-size: 11px;
+        padding-left: 7px;
+        padding-right: 7px;
+      
+    }   
+
+    #post6 a {
+        font-size: 11px;
+        padding-left: 3px;
+        padding-right: 3px;
+      
+    }   
+    #post7 {
+        padding: 0px 2px;
+    }
+    #post7 a {
+        font-size: 11px;
+        padding-left: 2px;
+        padding-right: 2px;
+      
+    }
+    #post8 {
+        padding: 0px 24px;
+    }
+
+    #post8 a {
+        font-size: 11px;
+        padding-left: 2px;
+        padding-right: 2px;
+    }   
+
+    #result {
+      margin-top: 50px;
+      border: 2px solid #ab183d;
+      margin-left: 17px;
+      margin-right: 10px;
+      width: 29%;
+      overflow-x: hidden;
+  }
+  #admit-card {
+    border: 2px solid #ab183d;
+    width: 29%;
+    margin-right: 10px;
+    margin-top: 50px;
+    overflow-x: hidden;
+}
+#latest-job {
+  border: 2px solid #ab183d;
+  width:29%;
+  margin-right: 10px;
+  margin-top: 50px;
+  overflow-x: hidden;
+}
+
+#heading-result {
+  font-size: 16px;
+  padding-right: 43px;
+  padding-left: 53px;
+  margin-left: -12px;
+  padding-bottom: 7px;
+}
+
+#heading-admitcard {
+  font-size: 16px;
+  padding-right: 24px;
+  padding-left: 43px;
+  margin-left: -22px;
+  padding-bottom: 7px;
+  margin-right: -18px;
+}
+#heading-latestjob {
+  font-size: 16px;
+  font-weight: 700;
+  padding-right: 27px;
+  padding-left: 43px;
+  margin-left: -21px;
+  padding-bottom: 7px;
+  margin-right: -21px
+}
+#important-section, a {
+  padding-top: 10px;
+  font-size: 12px;
+}
+   }
+  

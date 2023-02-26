@@ -1,0 +1,572 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* overflow-y: hidden; Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+/* main page logo background  */
+
+#sarkari-naukri {
+  background-color: #ab183d;
+  margin-left: 250px;
+  margin-right: 250px;
+  height: 200px;
+}
+
+/* logo size */
+
+#logo {
+  width: 250px;
+  margin-top: -30px;
+  margin-left: -20px;
+}
+#logo-heading1 {
+  font-size: 45px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 60px;
+  color: white;
+  margin-left: -113px;
+  font-weight: bold;
+}
+#logo-heading2 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin-left: -57px;
+  font-size: 18px;
+  margin-top: -8px;
+}
+
+#nav-bar {
+  margin-left: 250px;
+  margin-right: 20px;
+}
+
+#nav-item{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-block;
+  background-color: rgb(0, 0, 0);
+}
+
+#nav-link{
+  float: left;
+  border-left: 1px solid #bbb;
+  text-align: center;
+  display: inline;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#nav-link a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 9px 22px;
+  text-decoration: none;
+}
+
+#nav-link a:hover:not(.active) {
+  background-color: rgb(41, 5, 248);
+}
+
+
+/* #certificate-section,a:visited {
+  color: #4400ff;
+} */
+
+
+#certificate-section,a:active {
+  color: #f63601;
+}
+
+#certificate-section,a{
+  color: #101010; 
+}
+
+
+#heading-intro {
+  margin-left: 296px;
+  margin-right: 219px;
+  font-size: 1.3rem;
+  margin-top: 30px;
+  font-weight: 700;
+}
+
+#heading-intro1 {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+/* moving text start  */
+#marquee0 {
+  margin-left: 296px;
+  margin-right: 219px;
+}
+
+#marquee1 {
+  margin-left: 296px;
+  margin-right: 219px;
+  text-align: center;
+}
+
+/* twitter section  */
+
+#twitter-follow-button1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#twitter-follow-button1 a{
+  color: white;
+  background-color: rgba(74, 153, 233, 255);
+  border-radius: 20px;
+  padding: 5px 15px 5px 15px;
+  text-decoration: none;
+}
+
+/* sarkari naukri tools section  */
+
+#sarkari-naukri-tools {
+  margin-left: 620px;
+  margin-right: 620px;
+  margin-top: 10px;
+  padding: 5px 15px 5px 15px;
+  text-align: center;
+  background-color: rgb(4, 4, 152);
+}
+
+#sarkari-naukri-tools a {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* post  start  */
+
+#post {
+  display: inline-block;
+  margin-top: 20px;
+  color: white;
+  margin-left: 240px;
+  margin-right: 250px;
+}
+#post1 {
+  background-color: #878a2b;
+  border: 1px solid white;
+  padding: 0px 42.4px;
+}
+
+#post1 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post2 {
+  background-color: #0404ad;
+  border: 1px solid white;
+  padding: 0px 10px;
+}
+
+#post2 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post3 {
+  background-color: #e9692c;
+  border: 1px solid white;
+  padding: 0px 15.2px;
+}
+
+#post3 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post4 {
+  background-color: #80180f;
+  border: 1px solid white;
+  padding: 0px 0px;
+}
+
+#post4 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post5 {
+  background-color: #e63324;
+  border: 1px solid white;
+}
+
+#post5 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post6 {
+  background-color: #2b5f1c;
+  border: 1px solid white;
+  padding: 0px 3.6px;
+}
+
+#post6 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post7 {
+  background-color: #ea33ba;
+  border: 1px solid white;
+  padding: 0px 0px;
+}
+
+#post7 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#post8 {
+  background-color: #377ef6;
+  border: 1px solid white;
+  padding: 0px 19px;
+}
+
+#post8 a {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+td {
+  float: left;
+  border-left: 1px solid #bbb;
+  text-align: center;
+  display: inline;
+
+  font-weight: 500;
+}
+
+td a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 24.4px;
+  text-decoration: none;
+}
+
+/* post  end  */
+
+/* result section  */
+
+#result {
+  margin-top: 50px;
+  border: 2px solid #ab183d;
+  margin-left: 270px;
+  margin-right: 10px;
+  width: 21%;
+  overflow-x: hidden;
+}
+
+/*  result heading   */
+
+#heading-result {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 168px;
+  padding-left: 122px;
+  margin-left: -11px;
+  padding-bottom: 7px;
+}
+
+.result-section,
+a {
+  padding-top: 10px;
+  color: #0d00ff;
+}
+
+/* Admit-card section  */
+
+#admit-card {
+  border: 2px solid #ab183d;
+  width: 21%;
+  margin-right: 10px;
+  margin-top: 50px;
+  overflow-x: hidden;
+}
+
+/* Admit-card heading  */
+
+#heading-admitcard {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 86px;
+  padding-left: 125px;
+  margin-left: -21px;
+  padding-bottom: 7px;
+  margin-right: -18px;
+}
+
+.admitcard-section,
+a {
+  padding-top: 10px;
+}
+
+/* latestjobs-section  */
+
+#latest-job {
+  border: 2px solid #ab183d;
+  width: 21%;
+  margin-right: 10px;
+  margin-top: 50px;
+  overflow-x: hidden;
+}
+
+/* latestjobs heading  */
+
+#heading-latestjob {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 122px;
+  padding-left: 97px;
+  margin-left: -21px;
+  padding-bottom: 7px;
+  margin-right: -21px;
+}
+
+.latestjobs-section,
+a {
+  padding-top: 10px;
+}
+
+/* viewmore section  */
+
+#viewmore {
+  text-align: right;
+}
+
+#viewmore a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #04049c;
+  font-weight: 700;
+}
+
+/* Answer Key section */
+
+#answer-key {
+  margin-top: 30px;
+  border: 2px solid #ab183d;
+  margin-left: 270px;
+  margin-right: 10px;
+  width: 21%;
+  height: 330px;
+}
+
+/* Answer Key heading  */
+
+#heading-answerkey {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 90px;
+  padding-left: 110px;
+  margin-left: -11px;
+  padding-bottom: 10px;
+  padding-top: 2px;
+  margin-right: -33px;
+}
+
+.answerkey-section,
+a {
+  padding-top: 10px;
+}
+
+/* syllabus section  */
+
+#syllabus {
+  border: 2px solid #ab183d;
+  width: 21%;
+  margin-right: 10px;
+  margin-top: 30px;
+  height: 335px;
+}
+
+/* syllabus section  heading  */
+
+#heading-syllabus {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 128px;
+  padding-left: 111px;
+  margin-left: -14px;
+  padding-bottom: 10px;
+  margin-right: -18px;
+  padding-top: 2px;
+}
+
+.syllabus-section,
+a {
+  padding-top: 10px;
+}
+
+/* admission section  */
+
+#admission {
+  border: 2px solid #ab183d;
+  width: 21%;
+  margin-right: 10px;
+  margin-top: 30px;
+  height: 670px;
+}
+
+/* admission section heading  */
+#heading-admission {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 116px;
+  padding-left: 101px;
+  margin-left: -12px;
+  padding-bottom: 10px;
+  margin-right: -21px;
+  padding-top: 2px;
+}
+
+.admission-section,
+a {
+  padding-top: 10px;
+}
+
+/* Certificate Verification  */
+
+#certificate {
+  margin-top: -310px;
+  border: 2px solid #ab183d;
+  margin-left: 270px;
+  margin-right: 10px;
+  width: 21%;
+  height: 320px;
+}
+
+/* Certificate heading  */
+
+#heading-certificate {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 56px;
+  padding-left: 34px;
+  margin-left: -12px;
+  padding-bottom: 10px;
+  margin-right: -21px;
+  padding-top: 2px;
+}
+
+.certificate-section,
+a {
+  padding-top: 10px;
+}
+
+/* Important section  */
+
+#important-main {
+  margin-top: -330px;
+  border: 2px solid #ab183d;
+  width: 21%;
+  margin-right: 10px;
+  height: 330px;
+}
+
+/* Important section heading  */
+
+#heading-important {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  padding-right: 116px;
+  padding-left: 101px;
+  margin-left: -12px;
+  padding-bottom: 10px;
+  margin-right: -21px;
+  padding-top: 2px;
+}
+
+.important-section,
+a {
+  padding-top: 10px;
+}
+
+/* sarkari-container  */
+
+#sarkari-container {
+  border: 2px solid #ab183d;
+  margin-top: 50px;
+  margin-left: 150px;
+  /* margin-right: -20px; */
+  width: 80%;
+  text-align: center;
+}
+
+.heading {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #ab183d;
+  color: white;
+  margin-left: -12px;
+  padding-bottom: 10px;
+  margin-right: -15px;
+  padding-top: 10px;
+  margin-top: 20px;
+  /* text-align: center; */
+}
+
+.paragraph {
+  text-align: left;
+}
+
+.footer-container {
+  margin-top: 50px;
+  margin-left: 160px;
+  display: inline-block;
+  width: 75%;
+}
+.quick-link {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}

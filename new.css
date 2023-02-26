@@ -1,0 +1,1184 @@
+@media screen and (min-width: 2560px) {
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      /* overflow-y: hidden; Hide vertical scrollbar */
+      overflow-x: hidden; /* Hide horizontal scrollbar */
+    }
+  
+    #sarkari-naukri {
+      /* margin-left: 250px; */
+      margin-right: 250px;
+      height: 200px;
+      width: 80%;
+    }
+  
+    #logo-heading1 {
+      font-size: 66px;
+    }
+  
+    #logo-heading2 {
+      font-size: 33px;
+    }
+  
+    #nav-link a {
+      font-size: 31px;
+  
+      padding: 19px 64.1px;
+    }
+  
+    .h5,
+    h5 {
+      font-size: 2.25rem;
+    }
+  
+    #home-page {
+      font-size: 66px;
+      margin-left: 394px;
+      font-weight: 650;
+      color: #470415;
+    }
+  
+    #admitcard-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-admitcard {
+      font-size: 61px;
+      padding-right: 455px;
+      padding-left: 496px;
+      margin-left: -10px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+  
+    .admitcard-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    /* latest job post  */
+  
+    #heading-latestjob {
+      font-size: 61px;
+      padding-right: 464px;
+      padding-left: 496px;
+      margin-left: -10px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+  
+    .latestjob-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    #latestjob-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    /* latest result post  */
+  
+    #heading-latestresult {
+      font-size: 61px;
+      padding-right: 401px;
+      padding-left: 354px;
+      margin-left: -10px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+    .latestresult-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    #sarkari-naukri {
+      margin-left: 152px;
+      margin-right: 250px;
+      height: 275px;
+      width: 80%;
+    }
+  
+    #latestresult-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    /* important link post  */
+  
+    #importantlink-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-importantlink {
+      font-size: 61px;
+      padding-right: 425px;
+      padding-left: 423px;
+      margin-left: -10px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+  
+    .importantlink-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    #importantlink-shortdetails {
+      font-size: 23px;
+      text-align: start;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  
+    .h4,
+    h4 {
+      font-size: 3.5rem;
+    }
+  
+    /* certificate post  */
+  
+    #certificate-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-certificate {
+      font-size: 61px;
+      padding-right: 307px;
+      padding-left: 324px;
+      margin-left: -6px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+  
+    .certificate-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    b,
+    strong {
+      font-size: 24px;
+      font-weight: bolder;
+    }
+  
+    /* syllabus post   */
+  
+    #syllabus-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-syllabus {
+      font-size: 61px;
+      padding-right: 152px;
+      padding-left: 320px;
+      margin-left: -10px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+  
+    .syllabus-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    /* Answer key  */
+  
+    .answerkey-section {
+      font-size: 40px;
+      text-align: left;
+      margin-left: 53px;
+    }
+  
+    #answerkey-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-answerkey {
+      font-size: 58px;
+      padding-right: 7px;
+      padding-left: 12px;
+      margin-left: -43px;
+      padding-bottom: 3px;
+      margin-right: -40px;
+      padding-top: 1px;
+    }
+  
+    #answerkey-shortdetails {
+      font-size: 23px;
+      text-align: start;
+      padding-left: 21px;
+      padding-right: 4px;
+    }
+  
+    .h2,
+    h2 {
+      font-size: 3rem;
+    }
+  
+    /* admission */
+  
+      .admission-section {
+        font-size: 40px;
+        text-align: left;
+        margin-left: 53px;
+      }
+    #admission-post {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-admission {
+      font-size: 61px;
+      padding-right: 505px;
+      padding-left: 473px;
+      margin-left: -10px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+    }
+  
+    /* contact us  */
+  
+    #contact-us {
+      width: 50%;
+      margin-left: 495px;
+      margin-right: 164px;
+    }
+  
+    #heading-contactus {
+      font-size: 61px;
+      padding-right: 420px;
+      padding-left: 390px;
+      margin-left: -20px;
+      padding-bottom: 3px;
+      margin-right: -7px;
+      padding-top: 1px;
+      margin-bottom: 10px;
+    }
+    .h3,
+    h3 {
+      font-size: 2.75rem;
+    }
+  
+    tr th {
+      font-size: 30px;
+      font-weight: bold;
+      width: 300rem;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 2px solid black;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 1440px) {
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      /* overflow-y: hidden; Hide vertical scrollbar */
+      overflow-x: hidden; /* Hide horizontal scrollbar */
+    }
+    #nav-link a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 10px 30.6px;
+      text-decoration: none;
+    }
+  
+    /* latestjob  */
+  
+    #heading-latestjob {
+      font-size: 25px;
+      padding-right: 284px;
+      padding-left: 304px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* syllabus  */
+  
+    #heading-syllabus {
+      font-size: 25px;
+      padding-right: 163px;
+      padding-left: 224px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* answer key  */
+  
+    #heading-answerkey {
+      font-size: 25px;
+      padding-right: 88px;
+      padding-left: 89px;
+      margin-left: -20px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* admitcard  */
+  
+    #heading-admitcard {
+      font-size: 25px;
+      padding-right: 258px;
+      padding-left: 327px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* latestresult */
+  
+    #heading-latestresult {
+      font-size: 25px;
+      padding-right: 252px;
+      padding-left: 253px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    /* certificate  */
+    #heading-certificate {
+      font-size: 25px;
+      padding-right: 201px;
+      padding-left: 254px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* importantlink */
+  
+    #heading-importantlink {
+      font-size: 25px;
+      padding-right: 257px;
+      padding-left: 287px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* admission  */
+  
+    #heading-admission {
+      font-size: 25px;
+      padding-right: 324px;
+      padding-left: 273px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* contact us  */
+  
+    #heading-contactus {
+      font-size: 25px;
+      padding-right: 240px;
+      padding-left: 287px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  }
+  
+  @media screen and (max-width: 1024px) {
+    * {
+      margin: 0;
+      padding: 0;
+    }
+  
+    #sarkari-naukri {
+      background-color: #ab183d;
+      margin-left: 108px;
+      margin-right: 250px;
+      height: 150px;
+      width: 80%;
+    }
+  
+    #nav-bar {
+      margin-left: 108px;
+      margin-right: 20px;
+    }
+  
+    #home-menu {
+      margin-left: 110px;
+      margin-bottom: 90px;
+    }
+  
+    #nav-link a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 10px 9.8px;
+      text-decoration: none;
+    }
+  
+    #home-page {
+      font-size: 27px;
+      margin-left: 211px;
+      font-weight: 650;
+      margin-top: 50px;
+      color: #470415;
+    }
+  
+    /* latest job  */
+  
+    #latestjob-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    #heading-latestjob {
+      font-size: 25px;
+      padding-right: 190px;
+      padding-left: 190px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* syllabus  */
+  
+    #heading-syllabus {
+      font-size: 25px;
+      padding-right: 66px;
+      padding-left: 112px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    #syllabus-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    /* admitcard  */
+    #heading-admitcard {
+      font-size: 25px;
+      padding-right: 190px;
+      padding-left: 186px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    #admitcard-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    /* result   */
+  
+    #heading-latestresult {
+      font-size: 25px;
+      padding-right: 143px;
+      padding-left: 154px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+    #latestresult-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    /* answer key   */
+  
+    #answerkey-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    #heading-answerkey {
+      font-size: 22px;
+      padding-right: 22px;
+      padding-left: 12px;
+      margin-left: -20px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* admission*/
+    #admission-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    #heading-admission {
+      font-size: 25px;
+      padding-right: 185px;
+      padding-left: 203px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* certificate   */
+  
+    #certificate-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    #heading-certificate {
+      font-size: 25px;
+      padding-right: 124px;
+      padding-left: 123px;
+      margin-left: -22px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* important link   */
+  
+    #importantlink-post {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    #heading-importantlink {
+      font-size: 25px;
+      padding-right: 150px;
+      padding-left: 184px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* contact us  */
+  
+    #contact-us {
+      width: 50%;
+      margin-left: 276px;
+    }
+  
+    #heading-contactus {
+      font-size: 25px;
+      padding-right: 139px;
+      padding-left: 180px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      /* overflow-y: hidden; Hide vertical scrollbar */
+      overflow-x: hidden; /*  Hide horizontal scrollbar */
+    }
+  
+    #sarkari-naukri {
+      margin-left: 41px;
+      margin-right: 66px;
+      height: 150px;
+      width: 89%;
+    }
+  
+    #nav-bar {
+      margin-left: 40px;
+      margin-right: 20px;
+    }
+  
+    #nav-link a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 8px 7.6px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+  
+    #home-menu {
+      margin-left: 40px;
+      margin-bottom: 90px;
+    }
+  
+    #home-page {
+      font-size: 23px;
+      margin-left: 120px;
+      font-weight: 650;
+      margin-top: 50px;
+      color: #470415;
+    }
+  
+    /* result  */
+  
+    #latestresult-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-latestresult {
+      font-size: 20px;
+      padding-right: 121px;
+      padding-left: 121px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* latest job  */
+  
+    #latestjob-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-latestjob {
+      font-size: 20px;
+      padding-right: 167px;
+      padding-left: 145px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* syllabus  */
+  
+    #heading-syllabus {
+      font-size: 20px;
+      padding-right: 66px;
+      padding-left: 82px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    #syllabus-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    /* admitcard  */
+    #heading-admitcard {
+      font-size: 20px;
+      padding-right: 142px;
+      padding-left: 165px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    #admitcard-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    /* answer key   */
+  
+    #answerkey-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-answerkey {
+      font-size: 18px;
+      padding-right: 12px;
+      padding-left: 12px;
+      margin-left: -20px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* admission*/
+    #admission-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-admission {
+      font-size: 20px;
+      padding-right: 155px;
+      padding-left: 160px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* certificate   */
+  
+    #certificate-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-certificate {
+      font-size: 20px;
+      padding-right: 97px;
+      padding-left: 106px;
+      margin-left: -22px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* important link   */
+  
+    #importantlink-post {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-importantlink {
+      font-size: 20px;
+      padding-right: 131px;
+      padding-left: 142px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    /* contact us  */
+  
+    #contact-us {
+      width: 54%;
+      margin-left: 177px;
+    }
+  
+    #heading-contactus {
+      font-size: 20px;
+      padding-right: 126px;
+      padding-left: 135px;
+      margin-left: -21px;
+      padding-bottom: 7px;
+      margin-right: -21px;
+      padding-top: 2px;
+    }
+  
+    .h3,
+    h3 {
+      font-size: 1.3rem;
+    }
+  
+    tr th {
+      font-size: 20px;
+      font-weight: bold;
+      width: 300rem;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 426px) {
+    /* @media only screen and (max-width: 426px) { */
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      /* overflow-y: hidden; Hide vertical scrollbar */
+      overflow-x: hidden; /*  Hide horizontal scrollbar */
+    }
+  
+    #sarkari-naukri {
+      margin-left: 1px;
+      margin-right: 0px;
+      height: 100px;
+      width: 100%;
+    }
+    #logo-heading1 {
+      font-size: 30px;
+    }
+  
+    #logo-heading2 {
+      font-size: 15px;
+    }
+  
+    #nav-bar {
+      margin-left: 1px;
+      margin-right: 0px;
+    }
+    #nav-link a {
+      padding: 5px 5.6px;
+      font-size: 10px;
+    }
+  
+    #home-menu {
+      margin-left: 2px;
+    }
+    .h5,
+    h5 {
+      font-size: 1rem;
+    }
+  
+    #home-page {
+      font-size: 17px;
+      margin-left: 9px;
+    }
+  
+    .latestjob-section {
+      font-size: 15px;
+    }
+  
+    .latestresult-section {
+      font-size: 15px;
+    }
+  
+    .admitcard-section {
+      font-size: 15px;
+    }
+  
+    .answerkey-section {
+      font-size: 15px;
+    }
+    .syllabus-section {
+      font-size: 15px;
+    }
+  
+    .admission-section {
+      font-size: 15px;
+    }
+  
+    .certificate-section {
+      font-size: 15px;
+    }
+  
+    .importantlink-section {
+      font-size: 15px;
+    }
+  
+    /* latest job  */
+  
+    #latestjob-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+    #heading-latestjob {
+      font-size: 16px;
+      padding-right: 130px;
+      padding-left: 125px;
+    }
+  
+    #syllabus-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    /* syllabus  */
+    #heading-syllabus {
+      font-size: 16px;
+      padding-right: 63px;
+      padding-left: 63px;
+    }
+  
+    /* result  */
+  
+    #latestresult-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    #heading-latestresult {
+      font-size: 16px;
+      padding-right: 101px;
+      padding-left: 101px;
+    }
+  
+    /* admitcard  */
+    #heading-admitcard {
+      font-size: 16px;
+      padding-right: 126px;
+      padding-left: 126px;
+    }
+  
+    #admitcard-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    /* answer key   */
+  
+    #answerkey-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    #heading-answerkey {
+      font-size: 14px;
+      padding-right: 20px;
+      padding-left: 15px;
+    }
+  
+    #answerkey-shortdetails {
+      font-size: 10px;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  
+    /* admission*/
+    #admission-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    #heading-admission {
+      font-size: 16px;
+      padding-right: 130px;
+      padding-left: 130px;
+    }
+  
+    /* certificate   */
+  
+    #certificate-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    #heading-certificate {
+      font-size: 16px;
+      padding-right: 85px;
+      padding-left: 85px;
+    }
+  
+    #certificate-shortdetails {
+      font-size: 10px;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  
+    /* important link   */
+  
+    #importantlink-post {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    #heading-importantlink {
+      font-size: 16px;
+      padding-right: 113px;
+      padding-left: 112px;
+    }
+    #importantlink-shortdetails {
+      font-size: 10px;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  
+    #contact-us {
+      width: 80%;
+      margin-left: 39px;
+    }
+  
+    #heading-contactus {
+      font-size: 20px;
+      padding-right: 86px;
+      padding-left: 99px;
+      margin-left: -21px;
+      padding-bottom: 2px;
+      margin-right: -21px;
+      padding-top: 3px;
+    }
+  
+    .h3,
+    h3 {
+      font-size: 1rem;
+    }
+  
+    tr th {
+      font-size: 15px;
+      font-weight: bold;
+      width: 300rem;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+  
+  @media only screen and (max-width: 394px) {
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      /* overflow-y: hidden; Hide vertical scrollbar */
+      overflow-x: hidden; /*  Hide horizontal scrollbar */
+    }
+    #nav-link a {
+      padding: 5px 5.6px;
+      font-size: 9px;
+    }
+    #home-page {
+      font-size: 16px;
+      margin-left: 9px;
+    }
+  
+    .latestjob-section {
+      font-size: 10px;
+    }
+  
+    .latestresult-section {
+      font-size: 10px;
+    }
+  
+    .admitcard-section {
+      font-size: 10px;
+    }
+  
+    .answerkey-section {
+      font-size: 10px;
+    }
+    .syllabus-section {
+      font-size: 10px;
+    }
+  
+    .admission-section {
+      font-size: 10px;
+    }
+  
+    .certificate-section {
+      font-size: 10px;
+    }
+  
+    .importantlink-section {
+      font-size: 10px;
+    }
+  
+    /* latest job  */
+    #heading-latestjob {
+      font-size: 11px;
+      padding-right: 130px;
+      padding-left: 125px;
+    }
+  
+    /* syllabus  */
+    #heading-syllabus {
+      font-size: 11px;
+      padding-right: 82px;
+      padding-left: 86px;
+    }
+  
+    /* result  */
+  
+    #heading-latestresult {
+      font-size: 11px;
+      padding-right: 118px;
+      padding-left: 101px;
+    }
+  
+    /* admitcard  */
+    #heading-admitcard {
+      font-size: 11px;
+      padding-right: 127px;
+      padding-left: 127px;
+    }
+  
+    /* answer key   */
+  
+    #heading-answerkey {
+      font-size: 11px;
+      padding-right: 39px;
+      padding-left: 36px;
+    }
+  
+    #answerkey-shortdetails {
+      font-size: 9px;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  
+    /* admission*/
+  
+    #heading-admission {
+      font-size: 11px;
+      padding-right: 130px;
+      padding-left: 130px;
+    }
+  
+    /* certificate   */
+  
+    #heading-certificate {
+      font-size: 11px;
+      padding-right: 98px;
+      padding-left: 99px;
+    }
+  
+    #certificate-shortdetails {
+      font-size: 9px;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  
+    /* important link   */
+  
+    #heading-importantlink {
+      font-size: 11px;
+      padding-right: 118px;
+      padding-left: 118px;
+    }
+    #importantlink-shortdetails {
+      font-size: 9px;
+      padding-left: 3px;
+      padding-right: 3px;
+    }
+  
+    #heading-contactus {
+      font-size: 16px;
+      padding-right: 91px;
+      padding-left: 99px;
+    }
+  }
+  
